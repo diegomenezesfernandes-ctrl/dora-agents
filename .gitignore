@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Segredos - NUNCA enviar para o GitHub
+.env
+
+# Ambiente virtual do Python (cada computador cria o seu)
+.venv/
