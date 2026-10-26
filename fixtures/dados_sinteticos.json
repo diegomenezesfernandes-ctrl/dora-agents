@@ -1,0 +1,2855 @@
+{
+  "tickets": [
+    {
+      "chave": "DORA-147",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-02T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-15T17:19"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-27T09:11"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-15T19:19",
+      "deploy_id": "deploy-0048"
+    },
+    {
+      "chave": "DORA-153",
+      "tipo": "Historia",
+      "criado_em": "2026-06-02T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-03T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-03T12:50",
+      "deploy_id": "deploy-0054"
+    },
+    {
+      "chave": "DORA-102",
+      "tipo": "Historia",
+      "criado_em": "2026-06-04T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-04T14:05"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-05T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-04T15:22",
+      "deploy_id": "deploy-0003"
+    },
+    {
+      "chave": "DORA-111",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-08T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-08T13:01"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-08T16:46"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-08T14:59",
+      "deploy_id": "deploy-0012"
+    },
+    {
+      "chave": "DORA-126",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-10T16:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-11T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-10T17:19",
+      "deploy_id": "deploy-0027"
+    },
+    {
+      "chave": "DORA-163",
+      "tipo": "Historia",
+      "criado_em": "2026-06-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-15T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-15T12:12",
+      "deploy_id": "deploy-0064"
+    },
+    {
+      "chave": "DORA-184",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-11T14:29",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-14T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-11-16T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-14T11:51",
+      "deploy_id": "deploy-0085"
+    },
+    {
+      "chave": "DORA-121",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-12T09:32",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-15T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-15T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-15T10:23",
+      "deploy_id": "deploy-0022"
+    },
+    {
+      "chave": "DORA-200",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-12T09:36",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-01T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-01T11:56",
+      "deploy_id": "deploy-0101"
+    },
+    {
+      "chave": "DORA-137",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-15T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-15T09:59"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-15T11:32"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-15T11:33",
+      "deploy_id": "deploy-0038"
+    },
+    {
+      "chave": "DORA-155",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-15T16:03",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-17T14:29"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-22T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-17T16:57",
+      "deploy_id": "deploy-0056"
+    },
+    {
+      "chave": "DORA-208",
+      "tipo": "Historia",
+      "criado_em": "2026-06-22T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-22T17:18"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-23T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-22T19:39",
+      "deploy_id": "deploy-0109"
+    },
+    {
+      "chave": "DORA-172",
+      "tipo": "Historia",
+      "criado_em": "2026-06-23T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-23T15:47"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-23T16:55",
+      "deploy_id": "deploy-0073"
+    },
+    {
+      "chave": "DORA-107",
+      "tipo": "Historia",
+      "criado_em": "2026-06-25T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-29T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-06T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-29T12:03",
+      "deploy_id": "deploy-0008"
+    },
+    {
+      "chave": "DORA-129",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-25T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-29T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-29T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-29T11:58",
+      "deploy_id": "deploy-0030"
+    },
+    {
+      "chave": "DORA-135",
+      "tipo": "Historia",
+      "criado_em": "2026-06-25T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-26T10:08"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-29T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-26T13:44",
+      "deploy_id": "deploy-0036"
+    },
+    {
+      "chave": "DORA-154",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-26T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-26T15:09"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-06-29T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-26T16:50",
+      "deploy_id": "deploy-0055"
+    },
+    {
+      "chave": "DORA-177",
+      "tipo": "Historia",
+      "criado_em": "2026-06-26T15:38",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-29T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-01T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-29T12:30",
+      "deploy_id": "deploy-0078"
+    },
+    {
+      "chave": "DORA-106",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-29T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-30T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-01T16:24"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-30T09:52",
+      "deploy_id": "deploy-0007"
+    },
+    {
+      "chave": "DORA-122",
+      "tipo": "Historia",
+      "criado_em": "2026-06-29T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-13T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-13T11:25",
+      "deploy_id": "deploy-0023"
+    },
+    {
+      "chave": "DORA-148",
+      "tipo": "Historia",
+      "criado_em": "2026-06-29T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-09T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-20T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-09T11:50",
+      "deploy_id": "deploy-0049"
+    },
+    {
+      "chave": "DORA-150",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-29T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-06T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-16T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-06T11:42",
+      "deploy_id": "deploy-0051"
+    },
+    {
+      "chave": "DORA-202",
+      "tipo": "Tarefa",
+      "criado_em": "2026-06-29T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-06-30T10:35"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-06-30T11:07",
+      "deploy_id": "deploy-0103"
+    },
+    {
+      "chave": "DORA-124",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-01T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-06T12:57"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-15T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-06T16:48",
+      "deploy_id": "deploy-0025"
+    },
+    {
+      "chave": "DORA-182",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-03T16:47",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-06T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-06T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-06T12:48",
+      "deploy_id": "deploy-0083"
+    },
+    {
+      "chave": "DORA-125",
+      "tipo": "Historia",
+      "criado_em": "2026-07-06T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-07T16:59"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-13T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-07T19:31",
+      "deploy_id": "deploy-0026"
+    },
+    {
+      "chave": "DORA-142",
+      "tipo": "Historia",
+      "criado_em": "2026-07-06T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-07T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-09T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-07T09:56",
+      "deploy_id": "deploy-0043"
+    },
+    {
+      "chave": "DORA-179",
+      "tipo": "Historia",
+      "criado_em": "2026-07-06T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-06T14:07"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-07T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-06T16:12",
+      "deploy_id": "deploy-0080"
+    },
+    {
+      "chave": "DORA-187",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-06T14:25",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-08T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-09T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-08T11:48",
+      "deploy_id": "deploy-0088"
+    },
+    {
+      "chave": "DORA-151",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-07T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-08T16:25"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-13T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-08T19:20",
+      "deploy_id": "deploy-0052"
+    },
+    {
+      "chave": "DORA-157",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-08T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-14T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-20T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-14T12:25",
+      "deploy_id": "deploy-0058"
+    },
+    {
+      "chave": "DORA-145",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-09T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-19T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-10-05T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-19T10:18",
+      "deploy_id": "deploy-0046"
+    },
+    {
+      "chave": "DORA-165",
+      "tipo": "Historia",
+      "criado_em": "2026-07-13T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-15T13:58"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-17T11:07"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-15T17:21",
+      "deploy_id": "deploy-0066"
+    },
+    {
+      "chave": "DORA-201",
+      "tipo": "Historia",
+      "criado_em": "2026-07-13T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-13T15:40"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-14T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-13T18:56",
+      "deploy_id": "deploy-0102"
+    },
+    {
+      "chave": "DORA-168",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-14T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-15T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-16T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-15T10:41",
+      "deploy_id": "deploy-0069"
+    },
+    {
+      "chave": "DORA-191",
+      "tipo": "Historia",
+      "criado_em": "2026-07-14T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-31T16:44"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-17T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-31T20:16",
+      "deploy_id": "deploy-0092"
+    },
+    {
+      "chave": "DORA-140",
+      "tipo": "Historia",
+      "criado_em": "2026-07-14T12:24",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-17T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-20T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-17T09:30",
+      "deploy_id": "deploy-0041"
+    },
+    {
+      "chave": "DORA-139",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-16T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-03T12:35"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-21T11:01",
+      "deploy_id": "deploy-0040"
+    },
+    {
+      "chave": "DORA-132",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-20T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-27T17:01"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-13T10:31"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-27T20:06",
+      "deploy_id": "deploy-0033"
+    },
+    {
+      "chave": "DORA-152",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-20T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-21T13:30"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-21T11:32",
+      "deploy_id": "deploy-0053"
+    },
+    {
+      "chave": "DORA-118",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-20T10:36",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-21T15:48"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-24T15:20"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-21T17:29",
+      "deploy_id": "deploy-0019"
+    },
+    {
+      "chave": "DORA-175",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-20T16:58",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-06T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-20T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-06T10:55",
+      "deploy_id": "deploy-0076"
+    },
+    {
+      "chave": "DORA-144",
+      "tipo": "Historia",
+      "criado_em": "2026-07-21T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-22T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-22T11:02"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-22T12:17",
+      "deploy_id": "deploy-0045"
+    },
+    {
+      "chave": "DORA-203",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-21T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-22T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-23T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-22T10:59",
+      "deploy_id": "deploy-0104"
+    },
+    {
+      "chave": "DORA-194",
+      "tipo": "Historia",
+      "criado_em": "2026-07-22T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-23T12:08"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-24T17:39"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-23T14:38",
+      "deploy_id": "deploy-0095"
+    },
+    {
+      "chave": "DORA-197",
+      "tipo": "Historia",
+      "criado_em": "2026-07-22T13:13",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-27T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-27T10:02",
+      "deploy_id": "deploy-0098"
+    },
+    {
+      "chave": "DORA-190",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-23T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-27T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-27T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-27T10:28",
+      "deploy_id": "deploy-0091"
+    },
+    {
+      "chave": "DORA-171",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-24T09:07",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-27T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-29T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-27T10:39",
+      "deploy_id": "deploy-0072"
+    },
+    {
+      "chave": "DORA-204",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-27T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-28T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-07-28T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-28T12:59",
+      "deploy_id": "deploy-0105"
+    },
+    {
+      "chave": "DORA-209",
+      "tipo": "Historia",
+      "criado_em": "2026-07-27T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-10-08T09:30"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-21T09:54",
+      "deploy_id": "deploy-0110"
+    },
+    {
+      "chave": "DORA-192",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-28T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-03T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-10T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-03T11:33",
+      "deploy_id": "deploy-0093"
+    },
+    {
+      "chave": "DORA-173",
+      "tipo": "Tarefa",
+      "criado_em": "2026-07-30T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-07-31T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-07-31T10:18",
+      "deploy_id": "deploy-0074"
+    },
+    {
+      "chave": "DORA-108",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-03T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-07T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-10-09T14:01"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-07T10:18",
+      "deploy_id": "deploy-0009"
+    },
+    {
+      "chave": "DORA-110",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-03T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-04T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-04T09:21"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-04T10:54",
+      "deploy_id": "deploy-0011"
+    },
+    {
+      "chave": "DORA-117",
+      "tipo": "Historia",
+      "criado_em": "2026-08-03T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-04T16:34"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-06T12:57"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-04T19:38",
+      "deploy_id": "deploy-0018"
+    },
+    {
+      "chave": "DORA-205",
+      "tipo": "Historia",
+      "criado_em": "2026-08-04T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-10T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-27T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-10T11:38",
+      "deploy_id": "deploy-0106"
+    },
+    {
+      "chave": "DORA-211",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-06T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-06T14:55"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-07T13:08"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-06T18:30",
+      "deploy_id": "deploy-0112"
+    },
+    {
+      "chave": "DORA-114",
+      "tipo": "Historia",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-13T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-17T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-13T09:31",
+      "deploy_id": "deploy-0015"
+    },
+    {
+      "chave": "DORA-127",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-11T09:39"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-13T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-11T13:25",
+      "deploy_id": "deploy-0028"
+    },
+    {
+      "chave": "DORA-131",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-14T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-18T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-14T10:25",
+      "deploy_id": "deploy-0032"
+    },
+    {
+      "chave": "DORA-143",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-10T15:40"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-12T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-10T17:10",
+      "deploy_id": "deploy-0044"
+    },
+    {
+      "chave": "DORA-149",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-17T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-17T11:25",
+      "deploy_id": "deploy-0050"
+    },
+    {
+      "chave": "DORA-206",
+      "tipo": "Historia",
+      "criado_em": "2026-08-10T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-11T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-12T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-11T11:52",
+      "deploy_id": "deploy-0107"
+    },
+    {
+      "chave": "DORA-119",
+      "tipo": "Historia",
+      "criado_em": "2026-08-11T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-11T13:06"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-12T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-11T14:03",
+      "deploy_id": "deploy-0020"
+    },
+    {
+      "chave": "DORA-100",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-12T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-12T14:46"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-13T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-12T17:50",
+      "deploy_id": "deploy-0001"
+    },
+    {
+      "chave": "DORA-185",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-13T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-19T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-27T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-19T11:44",
+      "deploy_id": "deploy-0086"
+    },
+    {
+      "chave": "DORA-198",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-13T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-18T15:10"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-31T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-18T18:11",
+      "deploy_id": "deploy-0099"
+    },
+    {
+      "chave": "DORA-180",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-14T10:15",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-24T15:48"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-08T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-24T18:34",
+      "deploy_id": "deploy-0081"
+    },
+    {
+      "chave": "DORA-196",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-14T16:59",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-17T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-18T15:53"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-17T11:34",
+      "deploy_id": "deploy-0097"
+    },
+    {
+      "chave": "DORA-128",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-17T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-18T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-19T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-18T09:46",
+      "deploy_id": "deploy-0029"
+    },
+    {
+      "chave": "DORA-141",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-17T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-18T16:30"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-20T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-18T18:09",
+      "deploy_id": "deploy-0042"
+    },
+    {
+      "chave": "DORA-186",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-17T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-24T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-01T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-24T10:30",
+      "deploy_id": "deploy-0087"
+    },
+    {
+      "chave": "DORA-166",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-19T14:14",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-21T10:27",
+      "deploy_id": "deploy-0067"
+    },
+    {
+      "chave": "DORA-210",
+      "tipo": "Historia",
+      "criado_em": "2026-08-21T11:41",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-28T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-03T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-28T09:33",
+      "deploy_id": "deploy-0111"
+    },
+    {
+      "chave": "DORA-167",
+      "tipo": "Historia",
+      "criado_em": "2026-08-24T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-24T10:12"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-24T11:16"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-24T11:01",
+      "deploy_id": "deploy-0068"
+    },
+    {
+      "chave": "DORA-178",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-24T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-24T12:16"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-25T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-24T13:23",
+      "deploy_id": "deploy-0079"
+    },
+    {
+      "chave": "DORA-188",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-25T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-31T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-08T09:44"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-31T11:25",
+      "deploy_id": "deploy-0089"
+    },
+    {
+      "chave": "DORA-161",
+      "tipo": "Tarefa",
+      "criado_em": "2026-08-26T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-08-26T15:17"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-08-27T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-08-26T16:11",
+      "deploy_id": "deploy-0062"
+    },
+    {
+      "chave": "DORA-159",
+      "tipo": "Historia",
+      "criado_em": "2026-08-28T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-07T14:16"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-15T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-07T15:28",
+      "deploy_id": "deploy-0060"
+    },
+    {
+      "chave": "DORA-120",
+      "tipo": "Historia",
+      "criado_em": "2026-08-31T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-01T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-02T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-01T10:59",
+      "deploy_id": "deploy-0021"
+    },
+    {
+      "chave": "DORA-130",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-01T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-02T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-02T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-02T09:58",
+      "deploy_id": "deploy-0031"
+    },
+    {
+      "chave": "DORA-212",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-01T15:31",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-07T14:14"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-18T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-07T15:14",
+      "deploy_id": "deploy-0113"
+    },
+    {
+      "chave": "DORA-115",
+      "tipo": "Historia",
+      "criado_em": "2026-09-02T12:31",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-04T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-07T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-04T12:49",
+      "deploy_id": "deploy-0016"
+    },
+    {
+      "chave": "DORA-134",
+      "tipo": "Historia",
+      "criado_em": "2026-09-03T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-04T15:24"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-08T10:09"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-04T16:59",
+      "deploy_id": "deploy-0035"
+    },
+    {
+      "chave": "DORA-146",
+      "tipo": "Historia",
+      "criado_em": "2026-09-04T13:05",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-07T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-07T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-07T10:10",
+      "deploy_id": "deploy-0047"
+    },
+    {
+      "chave": "DORA-136",
+      "tipo": "Historia",
+      "criado_em": "2026-09-07T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-14T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-16T17:47"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-14T12:19",
+      "deploy_id": "deploy-0037"
+    },
+    {
+      "chave": "DORA-207",
+      "tipo": "Historia",
+      "criado_em": "2026-09-10T13:20",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-14T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-17T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-14T11:32",
+      "deploy_id": "deploy-0108"
+    },
+    {
+      "chave": "DORA-123",
+      "tipo": "Historia",
+      "criado_em": "2026-09-14T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-18T16:21"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-25T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-18T17:36",
+      "deploy_id": "deploy-0024"
+    },
+    {
+      "chave": "DORA-109",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-15T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-22T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-30T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-22T10:54",
+      "deploy_id": "deploy-0010"
+    },
+    {
+      "chave": "DORA-169",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-15T13:23",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-17T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-21T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-17T11:46",
+      "deploy_id": "deploy-0070"
+    },
+    {
+      "chave": "DORA-113",
+      "tipo": "Historia",
+      "criado_em": "2026-09-16T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-22T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-30T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-22T10:08",
+      "deploy_id": "deploy-0014"
+    },
+    {
+      "chave": "DORA-104",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-16T13:59",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-17T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-21T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-17T12:28",
+      "deploy_id": "deploy-0005"
+    },
+    {
+      "chave": "DORA-105",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-18T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-21T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-21T11:40",
+      "deploy_id": "deploy-0006"
+    },
+    {
+      "chave": "DORA-112",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-18T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-28T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-10-09T12:41"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-28T10:26",
+      "deploy_id": "deploy-0013"
+    },
+    {
+      "chave": "DORA-189",
+      "tipo": "Historia",
+      "criado_em": "2026-09-18T09:00",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-24T09:00"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-21T11:25",
+      "deploy_id": "deploy-0090"
+    },
+    {
+      "chave": "DORA-174",
+      "tipo": "Tarefa",
+      "criado_em": "2026-09-18T11:54",
+      "historico_status": [
+        {
+          "de": "To Do",
+          "para": "In Progress",
+          "em": "2026-09-21T09:00"
+        },
+        {
+          "de": "In Progress",
+          "para": "Done",
+          "em": "2026-09-24T14:31"
+        }
+      ],
+      "primeiro_commit_em": "2026-09-21T12:32",
+      "deploy_id": "deploy-0075"
+    }
+  ],
+  "deploys": [
+    {
+      "id": "deploy-0054",
+      "em": "2026-06-03T16:08",
+      "tickets": [
+        "DORA-153"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0003",
+      "em": "2026-06-05T09:00",
+      "tickets": [
+        "DORA-102"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0004",
+      "em": "2026-06-05T14:04",
+      "tickets": [
+        "DORA-103"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0012",
+      "em": "2026-06-08T16:43",
+      "tickets": [
+        "DORA-111"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0027",
+      "em": "2026-06-11T10:05",
+      "tickets": [
+        "DORA-126"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0022",
+      "em": "2026-06-15T12:50",
+      "tickets": [
+        "DORA-121"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0038",
+      "em": "2026-06-15T13:23",
+      "tickets": [
+        "DORA-137"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0039",
+      "em": "2026-06-15T15:53",
+      "tickets": [
+        "DORA-138"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0056",
+      "em": "2026-06-22T09:52",
+      "tickets": [
+        "DORA-155"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0057",
+      "em": "2026-06-22T13:58",
+      "tickets": [
+        "DORA-156"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0109",
+      "em": "2026-06-23T09:00",
+      "tickets": [
+        "DORA-208"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0064",
+      "em": "2026-06-24T09:00",
+      "tickets": [
+        "DORA-163"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0073",
+      "em": "2026-06-24T09:00",
+      "tickets": [
+        "DORA-172"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0065",
+      "em": "2026-06-24T13:46",
+      "tickets": [
+        "DORA-164"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0036",
+      "em": "2026-06-29T09:00",
+      "tickets": [
+        "DORA-135"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0055",
+      "em": "2026-06-29T09:00",
+      "tickets": [
+        "DORA-154"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0030",
+      "em": "2026-06-29T15:56",
+      "tickets": [
+        "DORA-129"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0078",
+      "em": "2026-07-01T09:00",
+      "tickets": [
+        "DORA-177"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0007",
+      "em": "2026-07-01T16:00",
+      "tickets": [
+        "DORA-106"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0103",
+      "em": "2026-07-03T09:00",
+      "tickets": [
+        "DORA-202"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0008",
+      "em": "2026-07-06T09:00",
+      "tickets": [
+        "DORA-107"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0083",
+      "em": "2026-07-06T15:23",
+      "tickets": [
+        "DORA-182"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0084",
+      "em": "2026-07-06T19:40",
+      "tickets": [
+        "DORA-183"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0080",
+      "em": "2026-07-07T09:00",
+      "tickets": [
+        "DORA-179"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0043",
+      "em": "2026-07-09T09:00",
+      "tickets": [
+        "DORA-142"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0088",
+      "em": "2026-07-09T09:00",
+      "tickets": [
+        "DORA-187"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0026",
+      "em": "2026-07-13T09:00",
+      "tickets": [
+        "DORA-125"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0052",
+      "em": "2026-07-13T09:00",
+      "tickets": [
+        "DORA-151"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0102",
+      "em": "2026-07-14T09:00",
+      "tickets": [
+        "DORA-201"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0025",
+      "em": "2026-07-15T09:00",
+      "tickets": [
+        "DORA-124"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0051",
+      "em": "2026-07-16T09:00",
+      "tickets": [
+        "DORA-150"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0069",
+      "em": "2026-07-16T09:00",
+      "tickets": [
+        "DORA-168"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0066",
+      "em": "2026-07-17T12:28",
+      "tickets": [
+        "DORA-165"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0041",
+      "em": "2026-07-20T09:00",
+      "tickets": [
+        "DORA-140"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0049",
+      "em": "2026-07-20T09:00",
+      "tickets": [
+        "DORA-148"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0058",
+      "em": "2026-07-20T09:00",
+      "tickets": [
+        "DORA-157"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0059",
+      "em": "2026-07-20T13:24",
+      "tickets": [
+        "DORA-158"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0053",
+      "em": "2026-07-21T15:08",
+      "tickets": [
+        "DORA-152"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0045",
+      "em": "2026-07-22T13:44",
+      "tickets": [
+        "DORA-144"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0104",
+      "em": "2026-07-23T09:19",
+      "tickets": [
+        "DORA-203"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0023",
+      "em": "2026-07-24T10:45",
+      "tickets": [
+        "DORA-122"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0019",
+      "em": "2026-07-24T12:14",
+      "tickets": [
+        "DORA-118"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0095",
+      "em": "2026-07-24T17:51",
+      "tickets": [
+        "DORA-194"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0096",
+      "em": "2026-07-25T07:15",
+      "tickets": [
+        "DORA-195"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0048",
+      "em": "2026-07-27T10:11",
+      "tickets": [
+        "DORA-147"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0091",
+      "em": "2026-07-27T14:25",
+      "tickets": [
+        "DORA-190"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0105",
+      "em": "2026-07-28T16:55",
+      "tickets": [
+        "DORA-204"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0072",
+      "em": "2026-07-29T09:00",
+      "tickets": [
+        "DORA-171"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0074",
+      "em": "2026-08-03T09:00",
+      "tickets": [
+        "DORA-173"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0098",
+      "em": "2026-08-03T09:00",
+      "tickets": [
+        "DORA-197"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0101",
+      "em": "2026-08-03T09:00",
+      "tickets": [
+        "DORA-200"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0040",
+      "em": "2026-08-03T09:02",
+      "tickets": [
+        "DORA-139"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0011",
+      "em": "2026-08-04T14:53",
+      "tickets": [
+        "DORA-110"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0018",
+      "em": "2026-08-06T12:01",
+      "tickets": [
+        "DORA-117"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0112",
+      "em": "2026-08-07T12:05",
+      "tickets": [
+        "DORA-211"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0093",
+      "em": "2026-08-10T09:00",
+      "tickets": [
+        "DORA-192"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0094",
+      "em": "2026-08-10T15:52",
+      "tickets": [
+        "DORA-193"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0020",
+      "em": "2026-08-12T09:00",
+      "tickets": [
+        "DORA-119"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0044",
+      "em": "2026-08-12T09:00",
+      "tickets": [
+        "DORA-143"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0107",
+      "em": "2026-08-12T09:00",
+      "tickets": [
+        "DORA-206"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0001",
+      "em": "2026-08-13T09:00",
+      "tickets": [
+        "DORA-100"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0033",
+      "em": "2026-08-13T09:00",
+      "tickets": [
+        "DORA-132"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0028",
+      "em": "2026-08-13T09:11",
+      "tickets": [
+        "DORA-127"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0002",
+      "em": "2026-08-13T11:07",
+      "tickets": [
+        "DORA-101"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0034",
+      "em": "2026-08-14T09:46",
+      "tickets": [
+        "DORA-133"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0015",
+      "em": "2026-08-17T09:00",
+      "tickets": [
+        "DORA-114"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0092",
+      "em": "2026-08-17T09:02",
+      "tickets": [
+        "DORA-191"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0032",
+      "em": "2026-08-18T09:00",
+      "tickets": [
+        "DORA-131"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0097",
+      "em": "2026-08-18T13:10",
+      "tickets": [
+        "DORA-196"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0029",
+      "em": "2026-08-19T09:00",
+      "tickets": [
+        "DORA-128"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0042",
+      "em": "2026-08-20T09:00",
+      "tickets": [
+        "DORA-141"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0076",
+      "em": "2026-08-20T09:35",
+      "tickets": [
+        "DORA-175"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0077",
+      "em": "2026-08-20T22:44",
+      "tickets": [
+        "DORA-176"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0050",
+      "em": "2026-08-24T09:00",
+      "tickets": [
+        "DORA-149"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0067",
+      "em": "2026-08-24T09:00",
+      "tickets": [
+        "DORA-166"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0068",
+      "em": "2026-08-24T12:54",
+      "tickets": [
+        "DORA-167"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0079",
+      "em": "2026-08-25T09:00",
+      "tickets": [
+        "DORA-178"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0062",
+      "em": "2026-08-27T09:00",
+      "tickets": [
+        "DORA-161"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0086",
+      "em": "2026-08-27T09:00",
+      "tickets": [
+        "DORA-185"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0106",
+      "em": "2026-08-27T09:00",
+      "tickets": [
+        "DORA-205"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0063",
+      "em": "2026-08-27T12:26",
+      "tickets": [
+        "DORA-162"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0099",
+      "em": "2026-08-31T09:00",
+      "tickets": [
+        "DORA-198"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0100",
+      "em": "2026-08-31T20:54",
+      "tickets": [
+        "DORA-199"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0087",
+      "em": "2026-09-01T09:00",
+      "tickets": [
+        "DORA-186"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0021",
+      "em": "2026-09-02T09:00",
+      "tickets": [
+        "DORA-120"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0031",
+      "em": "2026-09-02T11:28",
+      "tickets": [
+        "DORA-130"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0111",
+      "em": "2026-09-03T09:00",
+      "tickets": [
+        "DORA-210"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0016",
+      "em": "2026-09-07T09:08",
+      "tickets": [
+        "DORA-115"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0017",
+      "em": "2026-09-07T12:11",
+      "tickets": [
+        "DORA-116"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0047",
+      "em": "2026-09-07T12:45",
+      "tickets": [
+        "DORA-146"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0035",
+      "em": "2026-09-08T09:00",
+      "tickets": [
+        "DORA-134"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0081",
+      "em": "2026-09-08T09:00",
+      "tickets": [
+        "DORA-180"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0089",
+      "em": "2026-09-08T09:00",
+      "tickets": [
+        "DORA-188"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0082",
+      "em": "2026-09-08T23:12",
+      "tickets": [
+        "DORA-181"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0060",
+      "em": "2026-09-15T09:00",
+      "tickets": [
+        "DORA-159"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0061",
+      "em": "2026-09-15T11:12",
+      "tickets": [
+        "DORA-160"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0037",
+      "em": "2026-09-16T14:56",
+      "tickets": [
+        "DORA-136"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0108",
+      "em": "2026-09-17T09:00",
+      "tickets": [
+        "DORA-207"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0113",
+      "em": "2026-09-18T09:00",
+      "tickets": [
+        "DORA-212"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0005",
+      "em": "2026-09-21T09:00",
+      "tickets": [
+        "DORA-104"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0070",
+      "em": "2026-09-21T09:00",
+      "tickets": [
+        "DORA-169"
+      ],
+      "falhou": true
+    },
+    {
+      "id": "deploy-0071",
+      "em": "2026-09-21T12:42",
+      "tickets": [
+        "DORA-170"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0006",
+      "em": "2026-09-21T14:29",
+      "tickets": [
+        "DORA-105"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0090",
+      "em": "2026-09-24T09:00",
+      "tickets": [
+        "DORA-189"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0075",
+      "em": "2026-09-24T13:43",
+      "tickets": [
+        "DORA-174"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0024",
+      "em": "2026-09-25T09:00",
+      "tickets": [
+        "DORA-123"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0010",
+      "em": "2026-09-30T09:00",
+      "tickets": [
+        "DORA-109"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0014",
+      "em": "2026-09-30T09:00",
+      "tickets": [
+        "DORA-113"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0046",
+      "em": "2026-10-05T09:00",
+      "tickets": [
+        "DORA-145"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0110",
+      "em": "2026-10-08T09:00",
+      "tickets": [
+        "DORA-209"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0013",
+      "em": "2026-10-09T09:00",
+      "tickets": [
+        "DORA-112"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0009",
+      "em": "2026-10-09T13:57",
+      "tickets": [
+        "DORA-108"
+      ],
+      "falhou": false
+    },
+    {
+      "id": "deploy-0085",
+      "em": "2026-11-16T09:00",
+      "tickets": [
+        "DORA-184"
+      ],
+      "falhou": false
+    }
+  ],
+  "incidentes": [
+    {
+      "chave": "DORA-103",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0003",
+      "aberto_em": "2026-06-05T10:27",
+      "resolvido_em": "2026-06-05T14:04"
+    },
+    {
+      "chave": "DORA-138",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0038",
+      "aberto_em": "2026-06-15T14:09",
+      "resolvido_em": "2026-06-15T15:53"
+    },
+    {
+      "chave": "DORA-156",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0056",
+      "aberto_em": "2026-06-22T10:08",
+      "resolvido_em": "2026-06-22T13:58"
+    },
+    {
+      "chave": "DORA-164",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0064",
+      "aberto_em": "2026-06-24T10:36",
+      "resolvido_em": "2026-06-24T13:46"
+    },
+    {
+      "chave": "DORA-183",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0083",
+      "aberto_em": "2026-07-06T16:20",
+      "resolvido_em": "2026-07-06T19:40"
+    },
+    {
+      "chave": "DORA-158",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0058",
+      "aberto_em": "2026-07-20T11:00",
+      "resolvido_em": "2026-07-20T13:24"
+    },
+    {
+      "chave": "DORA-195",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0095",
+      "aberto_em": "2026-07-24T19:19",
+      "resolvido_em": "2026-07-25T07:15"
+    },
+    {
+      "chave": "DORA-193",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0093",
+      "aberto_em": "2026-08-10T09:48",
+      "resolvido_em": "2026-08-10T15:52"
+    },
+    {
+      "chave": "DORA-101",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0001",
+      "aberto_em": "2026-08-13T09:13",
+      "resolvido_em": "2026-08-13T11:07"
+    },
+    {
+      "chave": "DORA-133",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0033",
+      "aberto_em": "2026-08-13T10:47",
+      "resolvido_em": "2026-08-14T09:46"
+    },
+    {
+      "chave": "DORA-176",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0076",
+      "aberto_em": "2026-08-20T10:47",
+      "resolvido_em": "2026-08-20T22:44"
+    },
+    {
+      "chave": "DORA-162",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0062",
+      "aberto_em": "2026-08-27T09:45",
+      "resolvido_em": "2026-08-27T12:26"
+    },
+    {
+      "chave": "DORA-199",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0099",
+      "aberto_em": "2026-08-31T10:20",
+      "resolvido_em": "2026-08-31T20:54"
+    },
+    {
+      "chave": "DORA-116",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0016",
+      "aberto_em": "2026-09-07T10:42",
+      "resolvido_em": "2026-09-07T12:11"
+    },
+    {
+      "chave": "DORA-181",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0081",
+      "aberto_em": "2026-09-08T09:43",
+      "resolvido_em": "2026-09-08T23:12"
+    },
+    {
+      "chave": "DORA-160",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0060",
+      "aberto_em": "2026-09-15T10:12",
+      "resolvido_em": "2026-09-15T11:12"
+    },
+    {
+      "chave": "DORA-170",
+      "tipo": "Bug",
+      "deploy_causador": "deploy-0070",
+      "aberto_em": "2026-09-21T10:26",
+      "resolvido_em": "2026-09-21T12:42"
+    }
+  ]
+}
