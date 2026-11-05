@@ -9,7 +9,17 @@
 # ============================================================
 
 import os
+from datetime import datetime
 import httpx
+
+# O Jira agrupa todo status em 3 "categorias", com chaves fixas em ingles.
+# Usamos a categoria, e nao o nome do status ("A fazer", "Concluído"...),
+# porque o nome muda com o idioma e com a configuracao de cada time.
+CATEGORIA_PARA_PADRAO = {
+    "new": "To Do",
+    "indeterminate": "In Progress",
+    "done": "Done",
+}
 
 
 class JiraClient:
@@ -74,3 +84,89 @@ class JiraClient:
                 raise RuntimeError("Mais de 1000 paginas: algo esta errado na paginacao.")
 
         return todos
+
+    # ========================================================
+    # DIA 4: changelog e normalizacao
+    # ========================================================
+
+    def mapa_categorias(self):
+        """Devolve {id_do_status: "To Do" | "In Progress" | "Done"}.
+
+        Ex.: o status "Em andamento" (id 3) vira "In Progress"."""
+        resp = self.http.get(f"{self.url}/rest/api/3/status")
+        resp.raise_for_status()
+        mapa = {}
+        for status in resp.json():
+            categoria = status["statusCategory"]["key"]          # "new", "indeterminate" ou "done"
+            mapa[status["id"]] = CATEGORIA_PARA_PADRAO.get(categoria, "To Do")
+        return mapa
+
+    def changelog(self, chave):
+        """Devolve TODAS as mudancas de um ticket (status, titulo, responsavel...).
+
+        Este endpoint pagina do jeito "antigo": por posicao (startAt),
+        e nao por marcador. Mesma ideia, outra forma: pedir de novo
+        a partir de onde parou, ate a API dizer isLast = true."""
+        todas = []
+        inicio = 0
+        while True:
+            resp = self.http.get(
+                f"{self.url}/rest/api/3/issue/{chave}/changelog",
+                params={"startAt": inicio, "maxResults": 100},
+            )
+            resp.raise_for_status()
+            dados = resp.json()
+            valores = dados.get("values", [])
+            todas.extend(valores)
+            if dados.get("isLast", True) or not valores:
+                break
+            inicio += len(valores)                               # proxima "pagina"
+        return todas
+
+    def tickets_normalizados(self, projeto):
+        """Busca os tickets do projeto e devolve no MESMO formato do
+        JSON sintetico (fixtures/dados_sinteticos.json).
+
+        Esse e o coracao do dia: quem calcula as metricas nao precisa
+        saber se os dados vieram do Jira ou do gerador sintetico."""
+        categorias = self.mapa_categorias()
+        brutos = self.buscar(
+            f"project = {projeto} ORDER BY created ASC",
+            campos=["issuetype", "created"],
+        )
+
+        resultado = []
+        for t in brutos:
+            tipo = t["fields"]["issuetype"]
+
+            # Subtarefas ficam de fora: contariam o mesmo trabalho duas vezes
+            if tipo.get("subtask"):
+                continue
+
+            # Cada "entrada" do changelog tem uma data e uma lista de itens.
+            # So nos interessam os itens em que o campo alterado e o status.
+            historico = []
+            for entrada in self.changelog(t["key"]):
+                quando = _data_iso(entrada["created"])
+                for item in entrada["items"]:
+                    if item.get("field") != "status":
+                        continue
+                    de = categorias.get(item.get("from"), "To Do")
+                    para = categorias.get(item.get("to"), "To Do")
+                    if de == para:
+                        continue          # ex.: "Em andamento" -> "Em revisao": mesma categoria
+                    historico.append({"de": de, "para": para, "em": quando})
+
+            historico.sort(key=lambda h: h["em"])     # garante ordem cronologica
+            resultado.append({
+                "chave": t["key"],
+                "tipo": tipo["name"],
+                "criado_em": _data_iso(t["fields"]["created"]),
+                "historico_status": historico,
+            })
+        return resultado
+
+
+def _data_iso(texto_jira):
+    """Converte '2026-10-22T10:05:12.345-0300' em '2026-10-22T10:05-03:00'."""
+    return datetime.fromisoformat(texto_jira).isoformat(timespec="minutes")

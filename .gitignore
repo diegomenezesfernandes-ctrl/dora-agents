@@ -224,3 +224,6 @@ __marimo__/
 
 # Ambiente virtual do Python (cada computador cria o seu)
 .venv/
+
+# Real data exported from Jira/GitHub (generated, not versioned)
+data/
